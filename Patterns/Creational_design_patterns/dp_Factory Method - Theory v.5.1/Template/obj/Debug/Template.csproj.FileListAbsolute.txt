@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\bin\Debug\Template.exe.config
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\bin\Debug\Template.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\bin\Debug\Template.pdb
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\obj\Debug\Template.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Template\obj\Debug\Template.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\bin\Debug\Logging_Provider.exe.config
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\bin\Debug\Logging_Provider.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\bin\Debug\Logging_Provider.pdb
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\obj\Debug\Logging_Provider.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\obj\Debug\Logging_Provider.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Logging_Provider\obj\Debug\Logging_Provider.pdb

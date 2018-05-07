@@ -1,0 +1,6 @@
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\bin\Debug\Exercise_2.exe.config
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\bin\Debug\Exercise_2.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\bin\Debug\Exercise_2.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\obj\Debug\Exercise_2.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\obj\Debug\Exercise_2.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Builder- Theory v.5.1\Exercise_2\obj\Debug\Exercise_2.pdb

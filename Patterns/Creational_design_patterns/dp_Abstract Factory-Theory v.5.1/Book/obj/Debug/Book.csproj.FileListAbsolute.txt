@@ -1,0 +1,6 @@
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\bin\Debug\Book.exe.config
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\bin\Debug\Book.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\bin\Debug\Book.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\obj\Debug\Book.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Book\obj\Debug\Book.pdb

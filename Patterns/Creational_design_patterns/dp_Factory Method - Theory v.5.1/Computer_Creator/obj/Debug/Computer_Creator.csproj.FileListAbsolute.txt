@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\bin\Debug\Computer_Creator.exe.config
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\bin\Debug\Computer_Creator.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\bin\Debug\Computer_Creator.pdb
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\obj\Debug\Computer_Creator.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\obj\Debug\Computer_Creator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\obj\Debug\Computer_Creator.exe
+C:\Users\User\source\repos\dp_Factory Method - Theory v.5.1\Computer_Creator\obj\Debug\Computer_Creator.pdb

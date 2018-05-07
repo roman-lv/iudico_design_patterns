@@ -1,0 +1,7 @@
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\bin\Debug\Mario Game.exe.config
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\bin\Debug\Mario Game.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\bin\Debug\Mario Game.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\obj\Debug\Mario Game.csprojResolveAssemblyReference.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\obj\Debug\Mario Game.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\obj\Debug\Mario Game.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Mario Game\obj\Debug\Mario Game.pdb

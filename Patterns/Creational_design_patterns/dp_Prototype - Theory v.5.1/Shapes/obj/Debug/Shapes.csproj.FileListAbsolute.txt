@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\bin\Debug\Shapes.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\bin\Debug\Shapes.pdb
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\obj\Debug\Shapes.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Shapes\obj\Debug\Shapes.pdb

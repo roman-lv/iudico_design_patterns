@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\bin\Debug\Colors.exe.config
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\bin\Debug\Colors.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\bin\Debug\Colors.pdb
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\obj\Debug\Colors.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Colors\obj\Debug\Colors.pdb

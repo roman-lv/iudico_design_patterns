@@ -1,0 +1,6 @@
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\obj\Debug\Toys.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\bin\Debug\Toys.exe.config
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\bin\Debug\Toys.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\bin\Debug\Toys.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\obj\Debug\Toys.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Toys\obj\Debug\Toys.pdb

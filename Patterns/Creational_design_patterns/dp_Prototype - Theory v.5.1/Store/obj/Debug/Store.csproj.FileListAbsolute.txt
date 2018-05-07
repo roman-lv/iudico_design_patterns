@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\bin\Debug\Store.exe.config
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\bin\Debug\Store.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\bin\Debug\Store.pdb
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\obj\Debug\Store.exe
+C:\Users\User\source\repos\dp_Prototype - Theory v.5.1\Store\obj\Debug\Store.pdb

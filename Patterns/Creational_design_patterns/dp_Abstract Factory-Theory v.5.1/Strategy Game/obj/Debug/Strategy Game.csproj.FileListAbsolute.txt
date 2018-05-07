@@ -1,0 +1,7 @@
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\bin\Debug\Strategy Game.exe.config
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\bin\Debug\Strategy Game.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\bin\Debug\Strategy Game.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\obj\Debug\Strategy Game.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\obj\Debug\Strategy Game.exe
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\obj\Debug\Strategy Game.pdb
+D:\my_doc\Univer\3c_курсова\Твірні патерни\FFF\dp_Abstract Factory-Theory v.5.1\Strategy Game\obj\Debug\Strategy Game.csprojResolveAssemblyReference.cache
