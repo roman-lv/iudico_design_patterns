@@ -1,0 +1,28 @@
+﻿  Source.cpp
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(41): error C2059: syntax error: '*'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(77): error C2039: 'Queue': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(77): error C2146: syntax error: missing ';' before identifier 'que'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(77): error C2039: 'que': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(78): error C2039: 'Command': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(78): error C2039: 'input': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(78): error C2059: syntax error: ']'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(79): error C2143: syntax error: missing ';' before '{'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(80): error C2039: 'Command': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(80): error C2061: syntax error: identifier 'Command'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(84): error C2143: syntax error: missing ';' before '}'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(86): error C2039: 'i': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(87): error C2039: 'que': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(87): error C2039: 'enque': is not a member of 'Giant'
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(6): note: see declaration of 'Giant'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(87): error C2065: 'input': undeclared identifier
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(90): error C2065: 'que': undeclared identifier
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(90): error C2228: left of '.deque' must have class/struct/union
+  d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(90): note: type is 'unknown-type'
+d:\my_doc\univer\3c_курсова\поведінкові патерни c++\dp_command -theory v.5.1\dp_command -theory v.5.1\source.cpp(90): error C2227: left of '->execute' must point to class/struct/union/generic type

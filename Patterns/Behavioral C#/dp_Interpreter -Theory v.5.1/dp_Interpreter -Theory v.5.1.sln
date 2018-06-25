@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dp_Interpreter -Theory v.5.1", "dp_Interpreter -Theory v.5.1\dp_Interpreter -Theory v.5.1.csproj", "{122DF0DE-8FD4-478D-9F0E-4E79242A11DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122DF0DE-8FD4-478D-9F0E-4E79242A11DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122DF0DE-8FD4-478D-9F0E-4E79242A11DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122DF0DE-8FD4-478D-9F0E-4E79242A11DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122DF0DE-8FD4-478D-9F0E-4E79242A11DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E3831F-0129-4B4A-BC0E-0E12EB844CA6}
+	EndGlobalSection
+EndGlobal

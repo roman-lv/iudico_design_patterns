@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dp_Composite - Theory v.5.1", "dp_Composite - Theory v.5.1\dp_Composite - Theory v.5.1.csproj", "{450DC956-3B24-4AD1-8D72-354914E58E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450DC956-3B24-4AD1-8D72-354914E58E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450DC956-3B24-4AD1-8D72-354914E58E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450DC956-3B24-4AD1-8D72-354914E58E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450DC956-3B24-4AD1-8D72-354914E58E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0A40D9-B3BC-4690-BE4D-E61936D90236}
+	EndGlobalSection
+EndGlobal

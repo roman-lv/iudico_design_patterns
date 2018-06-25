@@ -1,0 +1,7 @@
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\bin\Debug\Car.exe.config
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\bin\Debug\Car.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\bin\Debug\Car.pdb
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\obj\Debug\Car.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\obj\Debug\Car.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Car\obj\Debug\Car.pdb

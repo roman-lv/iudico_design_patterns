@@ -1,0 +1,7 @@
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\obj\Debug\Coffee.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\bin\Debug\Coffee.exe.config
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\bin\Debug\Coffee.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\bin\Debug\Coffee.pdb
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\obj\Debug\Coffee.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\obj\Debug\Coffee.pdb
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_Decorator-Theory v.5.1\Coffee\obj\Debug\Coffee.csprojResolveAssemblyReference.cache

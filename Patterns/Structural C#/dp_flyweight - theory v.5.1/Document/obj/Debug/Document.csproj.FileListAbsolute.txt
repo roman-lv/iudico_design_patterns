@@ -1,0 +1,7 @@
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\bin\Debug\Document.exe.config
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\bin\Debug\Document.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\bin\Debug\Document.pdb
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\obj\Debug\Document.csprojResolveAssemblyReference.cache
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\obj\Debug\Document.exe
+D:\my_doc\Univer\3c_курсова\Структурні патерни\dp_flyweight - theory v.5.1\Document\obj\Debug\Document.pdb
